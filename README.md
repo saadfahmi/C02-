@@ -111,7 +111,7 @@ The project is organized as follows:
 
    ```bash
    git clone https://github.com/saadfahmi/C02-.git
-   cd C02)
+   cd C02-
 
 
   
